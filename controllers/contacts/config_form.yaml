@@ -1,0 +1,31 @@
+# ===================================
+#  Form Behavior Config
+# ===================================
+
+# Record name
+name: Contact
+
+# Model Form Field configuration
+form: $/ideaseven/qrcontact/models/contact/fields.yaml
+
+# Model Class name
+modelClass: Ideaseven\Qrcontact\Models\Contact
+
+# Default redirect location
+defaultRedirect: ideaseven/qrcontact/contacts
+
+# Create page
+create:
+    title: Create Contact
+    redirect: ideaseven/qrcontact/contacts/update/:id
+    redirectClose: ideaseven/qrcontact/contacts
+
+# Update page
+update:
+    title: Edit Contact
+    redirect: ideaseven/qrcontact/contacts
+    redirectClose: ideaseven/qrcontact/contacts
+
+# Preview page
+preview:
+    title: Preview Contact

@@ -1,0 +1,42 @@
+# ===================================
+#  Form Field Definitions
+# ===================================
+
+fields:
+    first_name:
+        label: First Name
+        span: auto
+    last_name:
+        label: Last Name
+        span: auto
+    company:
+        label: Company Name
+        span: auto
+    web_url:
+        label: Website
+        span: auto
+    office_number:
+        label: Office Number
+        span: auto
+    home_number:
+        label: Home Number
+        span: auto
+    mobile_number:
+        label: Mobile Number
+        span: auto
+    office_email:
+        label: Office Email
+        span: auto
+    home_email:
+        label: Home Email
+        span: auto
+    address:
+        label: Address
+        span: auto
+    fax:
+        label: Fax
+        span: auto
+    qr:
+        label: QR Code
+        type: fileupload
+        context: update

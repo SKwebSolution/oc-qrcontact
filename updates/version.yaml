@@ -1,0 +1,6 @@
+1.0.1:
+  - First version of qrcontact
+  - create_contacts_table.php
+1.0.2:
+  - add_address_fax_to_contacts_table
+  - add_address_fax_to_contacts_table.php
