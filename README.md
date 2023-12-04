@@ -1,6 +1,8 @@
 # OCTOBERCMS PLUGIN
 # oc-qrcontact
 OctoberCMS PLugin for generate QR code with contact details. Save All details to your phone (IOS and Android)
+PHP 8.2^
+OctoberCMS v3.4^
 
 Create Contact details
 ![Backend Admin panel1](https://github.com/sotiriskast/oc-qrcontact/assets/35741191/04048622-5d29-4ae8-adcd-1ff8af47117b)
